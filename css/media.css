@@ -1,0 +1,224 @@
+@media (max-width: 991px)
+{
+	.text-center-s
+	{
+		text-align: center;
+	}
+	
+	.font-s
+	{
+		font-size: 22px !important;
+	}
+	
+	
+/*	Start navbar */
+	.navbar-inverse .navbar-brand 
+	{
+    	font-size: 28px;
+    	padding: 14px;
+	}
+	
+/*	End navbar */
+	
+	
+/*	Start Header*/
+	
+	.header .centering-vh
+	{
+		margin-top: 50px;
+	}	
+	
+	.header h1 ~ .lead:after
+	{
+		content: '';
+		display: block;
+		width: 65px;
+		height: 3px;
+		margin: 20px auto;
+		background-color: #FFF;
+	}
+	
+	.header .header-desc
+	{
+		font-size: 10px;
+	}
+	
+	.header form
+	{
+		margin-left: auto;
+		width: 250px;
+	}
+	
+	.header form h2
+	{
+		margin-bottom: 10px;
+		font-size: 15px;
+	}
+	
+	.header .form-control
+	{
+		margin: 0 auto 10px;
+	}
+	
+	.header form input[type="submit"]
+	{
+		padding: 8px;
+	}
+	
+	.header button
+	{
+		display: block;
+		margin: 30px auto;
+	}
+	
+	
+/*	End Header*/
+
+	
+/*	Start Social Media */
+	
+	.social-media i
+	{
+		margin: 10px 15px;
+	}
+	
+	.social-media h3
+	{
+		margin-bottom: 10px;
+	}
+
+/*	End Social Media*/
+
+	
+	
+/*	Start Tabs Section*/
+	
+	.tabs-section .tab-switch li
+	{
+		line-height: 50px;
+		height: 50px;
+	}
+	
+	.tabs-section .tabs-content
+	{
+		margin-left: 0;
+		margin: 30px;
+	}
+	
+	
+	.tabs-section .tabs-content .btn
+	{
+		margin-top: 20px; 
+	}
+	
+	.tabs-section img
+	{
+		display: none;
+	}
+/*	End Tabs Section*/
+	
+	
+	
+/*	Start Sublist */
+	
+	.sublist
+	{
+		padding: 40px 0;
+	}
+	
+	.sublist .head-border:after
+	{
+		margin: 20px auto;
+	}
+	
+	.sublist .list-icon i
+	{
+		float: none !important;
+		margin: 10px 0 10px 0;
+	}
+	
+	.sublist .list-icon .text-infoo
+	{
+		float: none !important;
+		width: 100%;
+	}
+	
+/*	End Sublist */
+	
+	
+/*	Start Standart pic*/
+	
+	.standard-pic .head-border:after
+	{
+		margin: 20px auto;
+	}
+	
+/*	End Standart pic*/
+	
+	
+/*	Start Awesome */
+	
+	.awesome-section .feat-info
+	{
+		margin-bottom: 40px;
+	}
+	
+/*	End Awesome */
+	
+	
+	
+/*	Start pricing */
+	
+	.pricing-section .price-box
+	{
+		margin-bottom: 60px;
+		border-bottom: 1px solid #777;
+		border-radius: 20px;
+	}
+	
+/*	End pricing */
+	
+	
+	
+/*	Start Testimonials */
+	
+	.testimonials-section
+	{
+		padding: 40px 0;
+	}
+	
+	.testimonials-section .media
+	{
+		margin-bottom: 40px;
+	}
+/*	End Testimonials */
+	
+	
+/*	Start Stylish*/
+	
+	.stylish-section
+	{
+		height: 280px;
+	}
+	
+	.stylish-section .overlay
+	{
+		padding: 30px 0;
+	}
+	
+/*	End Stylish*/
+	
+/*	Start Footer*/
+	
+	.contact-section
+	{
+		padding: 30px 0;
+	}
+	
+/*	End Footer*/
+	
+	
+	
+	
+	
+}
